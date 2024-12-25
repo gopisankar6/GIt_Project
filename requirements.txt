@@ -1,0 +1,6 @@
+openai==0.27.0
+PyMuPDF==1.22.0
+langchain==0.0.240
+faiss-cpu==1.7.4
+chromadb==0.3.24
+python-dotenv==1.0.0
